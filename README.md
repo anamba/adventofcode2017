@@ -12,3 +12,5 @@ Beyond this point be spoilers, but broken down by day whenever possible.
 * [Advent of Code tag](https://elixirforum.com/tag/advent-of-code) on Elixir forum
 * [#advent_of_code](https://elixir-lang.slack.com/archives/C0GNWCM8X) channel on Elixir Slack
 * [AoC Subreddit](https://www.reddit.com/r/adventofcode/) (not Elixir-specific)
+* [Elixir Official Docs](https://elixir-lang.org/docs.html)
+* [Elixir cheatsheet](https://devhints.io/elixir)
